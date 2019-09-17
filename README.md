@@ -1,6 +1,8 @@
-# nuxt-storybook
+# NEVVS Stack Template
 
-> My posh Nuxt.js project
+> A SSR Nuxt Vue with Express Backend and Storybook installed template
+
+Just for reference and quick load, to avoid too much configuration when starting new projects.
 
 ## Build Setup
 
